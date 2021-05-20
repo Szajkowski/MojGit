@@ -1,1 +1,5 @@
-simple Makefile
+W celu skorzystania z programu należy:
+1. Pobrać wszystkie pliki tak jak są (łącznie z katalogami) do jednej lokalizacji. Wyjątek stanowi plik .gitignore, który nie będzie potrzebny
+2. Otworzyć shella i przejść do lokalizacji, w której znajdują się pliki (np poleceniem "cd <tutaj ścieżka>")
+3. Będąc w odpowiedniej lokalizacji wpisać polecenie "make", powstanie wtedy plik wykonywalny hello
+4. Uruchomić plik hello wpisując w shella "./hello"
